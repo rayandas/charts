@@ -88,6 +88,7 @@ rules:
   - ""
   resources:
   - "services"
+  - "serviceaccounts"
   verbs:
   - "watch"
   - "list"
